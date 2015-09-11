@@ -1139,7 +1139,6 @@ section.feature .title {
 
 .banner-text {
     font-family: "Open Sans", sans-serif;
-    text-transform: uppercase;
 }
 
 .banner-title {
@@ -1199,7 +1198,6 @@ section.feature .title {
 
 .trusted-by {
     font-family: "Open Sans", sans-serif;
-    text-transform: uppercase;
     font-size: 1.2rem;
     font-weight: 700;
     color: #262626;
