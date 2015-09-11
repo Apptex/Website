@@ -1,0 +1,7 @@
+.overlay,
+.header-area .overlay,
+.home-v2 .header-area .overlay,
+.home-v3 .header-area .overlay,
+.home-v4 .header-area .overlay {
+    filter: none;
+}
