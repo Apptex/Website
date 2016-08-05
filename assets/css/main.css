@@ -218,7 +218,7 @@ iframe {
     margin: 25px auto 100px;
     font-weight: 100;
     font-size: 1.4rem;
-    max-width: 685px;
+    max-width: 885px;
 }
 
 .overlay .section-title,
@@ -732,7 +732,7 @@ section.feature .title {
 
 .single-ptable .amount {
     color: #006dbd;
-    font-size: 6.67rem;
+    font-size: 4.67rem;
     line-height: 65px;
 }
 
